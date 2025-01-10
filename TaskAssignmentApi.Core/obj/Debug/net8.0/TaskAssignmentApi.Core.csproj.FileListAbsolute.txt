@@ -1,0 +1,12 @@
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\bin\Debug\net8.0\TaskAssignmentApi.Core.deps.json
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\bin\Debug\net8.0\TaskAssignmentApi.Core.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\bin\Debug\net8.0\TaskAssignmentApi.Core.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.csproj.AssemblyReference.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.AssemblyInfoInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.AssemblyInfo.cs
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\refint\TaskAssignmentApi.Core.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\TaskAssignmentApi.Core.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Core\obj\Debug\net8.0\ref\TaskAssignmentApi.Core.dll

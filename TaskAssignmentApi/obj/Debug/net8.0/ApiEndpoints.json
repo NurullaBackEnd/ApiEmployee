@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "TaskAssignmentApi.Controllers.AssignmentsController",
+    "Method": "GetAssignments",
+    "RelativePath": "api/Assignments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskAssignmentApi.Controllers.AssignmentsController",
+    "Method": "CreateAssignment",
+    "RelativePath": "api/Assignments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assignment",
+        "Type": "TaskAssignmentApi.Core.Entities.Assignment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskAssignmentApi.Controllers.AssignmentsController",
+    "Method": "GetAssignment",
+    "RelativePath": "api/Assignments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

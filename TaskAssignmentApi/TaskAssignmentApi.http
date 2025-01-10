@@ -1,0 +1,6 @@
+@TaskAssignmentApi_HostAddress = http://localhost:5076
+
+GET {{TaskAssignmentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

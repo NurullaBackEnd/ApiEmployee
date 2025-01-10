@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B78JzCG4Wt3FuByp6EEos2SpfyF6z6AlsFSx5rHfq6c=",
+  "Source": "TaskAssignmentApi",
+  "BasePath": "_content/TaskAssignmentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

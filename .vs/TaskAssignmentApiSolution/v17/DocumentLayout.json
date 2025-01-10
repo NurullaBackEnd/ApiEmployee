@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\TaskAssignmentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|solutionrelative:taskassignmentapi.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\interfaces\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\interfaces\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|solutionrelative:taskassignmentapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE57B2-F00D-4A3B-9038-B0F086DA0A5C}|TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.business\\taskassignmentapi.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ABE57B2-F00D-4A3B-9038-B0F086DA0A5C}|TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj|solutionrelative:taskassignmentapi.business\\taskassignmentapi.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi\\taskassignmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|solutionrelative:taskassignmentapi\\taskassignmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|solutionrelative:taskassignmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.dal\\migrations\\20250110071047_addnurulla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|solutionrelative:taskassignmentapi.dal\\migrations\\20250110071047_addnurulla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\taskassignmentapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\taskassignmentapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.dal\\taskassignmentapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C203134C-FEE9-4375-B6F4-928C19C95BFA}|TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj|solutionrelative:taskassignmentapi.dal\\taskassignmentapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|solutionrelative:taskassignmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1183560-70A5-4569-8864-FBA31F88A643}|TaskAssignmentApi\\TaskAssignmentApi.csproj|solutionrelative:taskassignmentapi\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE57B2-F00D-4A3B-9038-B0F086DA0A5C}|TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.business\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE57B2-F00D-4A3B-9038-B0F086DA0A5C}|TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj|solutionrelative:taskassignmentapi.business\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|c:\\users\\classtime\\taskassignmentapi\\taskassignmentapi.core\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A487C9F-0416-4E98-8797-EA8EC432AB66}|TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj|solutionrelative:taskassignmentapi.core\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskAssignmentApi.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\TaskAssignmentApi.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T06:54:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskAssignmentApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\TaskAssignmentApi.csproj",
+              "RelativeDocumentMoniker": "TaskAssignmentApi\\TaskAssignmentApi.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\TaskAssignmentApi.csproj",
+              "RelativeToolTip": "TaskAssignmentApi\\TaskAssignmentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T06:29:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskAssignmentApi.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj",
+              "RelativeToolTip": "TaskAssignmentApi.Business\\TaskAssignmentApi.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T06:09:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Startup.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Startup.cs",
+              "RelativeToolTip": "TaskAssignmentApi\\Startup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:24:34.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250110071047_addNurulla.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\Migrations\\20250110071047_addNurulla.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.DAL\\Migrations\\20250110071047_addNurulla.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\Migrations\\20250110071047_addNurulla.cs",
+              "RelativeToolTip": "TaskAssignmentApi.DAL\\Migrations\\20250110071047_addNurulla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:10:47.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskAssignmentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\appsettings.json",
+              "RelativeToolTip": "TaskAssignmentApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T06:23:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.DAL\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "TaskAssignmentApi.DAL\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:18:57.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskAssignmentApi.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj",
+              "RelativeToolTip": "TaskAssignmentApi.DAL\\TaskAssignmentApi.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T06:54:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Program.cs",
+              "RelativeToolTip": "TaskAssignmentApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:24:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Interfaces\\IAssignmentService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Interfaces\\IAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:18:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Interfaces\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Interfaces\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Interfaces\\IAssignmentRepository.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Interfaces\\IAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:18:03.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Entities\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Assignment.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Entities\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:17:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Business\\Services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Business\\Services\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Business\\Services\\AssignmentService.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Business\\Services\\AssignmentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:19:39.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "TaskAssignmentApi\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:20:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:16:00.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Tag.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:16:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentApi.Core\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\Classtime\\TaskAssignmentApi\\TaskAssignmentApi.Core\\Entities\\Topic.cs",
+              "RelativeToolTip": "TaskAssignmentApi.Core\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:16:16.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

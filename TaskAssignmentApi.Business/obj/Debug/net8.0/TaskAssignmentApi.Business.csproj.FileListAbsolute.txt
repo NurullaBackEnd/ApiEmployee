@@ -1,0 +1,17 @@
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.Business.deps.json
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.Business.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.Business.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.Core.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.DAL.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.DAL.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\bin\Debug\net8.0\TaskAssignmentApi.Core.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.csproj.AssemblyReference.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.AssemblyInfoInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.AssemblyInfo.cs
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssi.49C1C739.Up2Date
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\refint\TaskAssignmentApi.Business.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\TaskAssignmentApi.Business.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.Business\obj\Debug\net8.0\ref\TaskAssignmentApi.Business.dll

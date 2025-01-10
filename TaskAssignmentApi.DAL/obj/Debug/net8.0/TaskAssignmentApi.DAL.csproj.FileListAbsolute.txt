@@ -1,0 +1,17 @@
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.DAL.deps.json
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.DAL.runtimeconfig.json
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.DAL.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.DAL.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.Core.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\bin\Debug\net8.0\TaskAssignmentApi.Core.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.AssemblyInfo.cs
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssi.EE8B2DDE.Up2Date
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\refint\TaskAssignmentApi.DAL.dll
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.pdb
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\TaskAssignmentApi.DAL.genruntimeconfig.cache
+C:\Users\Classtime\TaskAssignmentApi\TaskAssignmentApi.DAL\obj\Debug\net8.0\ref\TaskAssignmentApi.DAL.dll
